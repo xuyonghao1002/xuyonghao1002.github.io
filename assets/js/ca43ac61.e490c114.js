@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[917],{5512:function(t){t.exports=JSON.parse('{"title":"Git","slug":"/category/git","permalink":"/docs/category/git","navigation":{"previous":{"title":"\u7b14\u8bb0\u7b80\u4ecb","permalink":"/docs/skill"},"next":{"title":"Git\u4ecb\u7ecd","permalink":"/docs/skill/git/git-intro"}}}')}}]);
